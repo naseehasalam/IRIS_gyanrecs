@@ -1,4 +1,4 @@
-# IRIS_gyanrecs
+# IRIS Gyan Recruitments.
 The following repository contains code for executing summarization on the CNN/Dailymail Datasets
 
 **SETUP**
